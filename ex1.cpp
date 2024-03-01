@@ -86,6 +86,7 @@ main()
 				else {
 					cout<<"horraire invalide";return 1;
 				}break;	
+int hind;
 			
 			
 		
